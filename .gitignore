@@ -1,0 +1,5 @@
+# resources folder
+resources
+
+# credentials file
+notebooks/creds.py
